@@ -55,8 +55,8 @@ These dashboards are designed to assist in financial planning, staffing decision
 #### Steps Taken to Answer Business Questions (from Data Pre-Process Sheet):
 🛠 Steps followed:
 1. 🧹 Cleaned and standardized the data from all sheets.
-2. 🧮 Created calculated fields, including profit margins, refund rates, and month-over-month growth.
-3. 📋 Designed pivot tables to aggregate key metrics.
+2. 🧮 Created data model, calculated fields, including profit margins, refund rates, and month-over-month growth.
+3. 📋 Designed power queries, dax operations, pivot tables to aggregate key metrics.
 4. 📊 Built visualizations for dashboards using slicers, charts, and conditional formatting.
 
 #### Technologies Used to Complete the Project:
